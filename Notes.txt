@@ -1,21 +1,20 @@
-# FTP Shell Uploader
+
+Language: portuguese brazilian / PT-BR.
 
       __, ___ __,    _, _,_ __,  _, _,_ __, __,
       |_   |  |_)   / ` |_| |_  / ` |_/ |_  |_)
       |    |  |     \ , | | |   \ , | \ |   | \
       ~    ~  ~      ~  ~ ~ ~~~  ~  ~ ~ ~~~ ~ ~
       
-- Autor: Jess√© aka Constantine.
-- Data: 06/2015.
-- Vers√£o: 1.0.
+Autor: JessÈ aka Constantine.
+Data: 06/2015.
+Vers„o: 1.0.
 
 Programa utilizado para fazer upload de algum arquivo
 (em nosso caso uma Web-shell) em determinado servidor
-FTP. Ap√≥s o envio do arquivo, o mesmo √© procurado via
+FTP. ApÛs o envio do arquivo, o mesmo È procurado via
 HTTP para verificar se a shell foi upada com sucesso.
 
 Execute o arquivo 'App.php' para fazer o uso do programa.
   
-        php App.php
-
-  
+  php App.php
